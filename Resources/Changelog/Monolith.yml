@@ -14115,3 +14115,10 @@ Entries:
   id: 1563
   time: '2025-11-13T16:06:11.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/2615
+- author: Ilya246
+  changes:
+    - type: Fix
+      message: PDV Spasaka ID card chameleon fixed.
+  id: 1564
+  time: '2025-11-13T16:24:06.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/2627
