@@ -14826,3 +14826,12 @@ Entries:
   id: 1644
   time: '2025-12-10T20:20:10.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/2772
+- author: tonotom1
+  changes:
+    - type: Tweak
+      message: >-
+        You can use your suit storage slot without actually wearing outerwear
+        now
+  id: 1645
+  time: '2025-12-10T20:21:31.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/2777
