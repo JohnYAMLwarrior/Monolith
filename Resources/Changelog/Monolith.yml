@@ -15049,3 +15049,10 @@ Entries:
   id: 1668
   time: '2025-12-20T17:35:32.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/2811
+- author: thoughtlessuser
+  changes:
+    - type: Fix
+      message: Replaced CV-67 human equipped sprite with its intended design.
+  id: 1669
+  time: '2025-12-20T17:38:50.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/2833
