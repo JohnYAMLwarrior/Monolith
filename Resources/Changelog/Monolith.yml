@@ -15040,3 +15040,12 @@ Entries:
   id: 1667
   time: '2025-12-20T17:32:33.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/2830
+- author: Ilya246
+  changes:
+    - type: Add
+      message: >-
+        Added hostile AI drones with loot to the >20km area and rarely further
+        in.
+  id: 1668
+  time: '2025-12-20T17:35:32.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/2811
