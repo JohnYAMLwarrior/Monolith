@@ -15264,3 +15264,10 @@ Entries:
   id: 1693
   time: '2025-12-27T21:39:29.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/2839
+- author: NazrinNya
+  changes:
+    - type: Tweak
+      message: Hardsuits and armor doesn't come with durathread plate now.
+  id: 1694
+  time: '2025-12-28T03:36:29.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/2876
